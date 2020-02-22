@@ -5,7 +5,7 @@
 
 :root {
     --font: "Roboto Mono";
-    --background:  url("./images/wallpaper.jpg");
+    --background:  url("../images/wallpaper.jpg");
     --foreground: #fffffe;
     --pink: #e53170;
     --red: #f25f4c;

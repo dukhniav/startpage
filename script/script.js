@@ -5,7 +5,7 @@ const Config = {
         [
             "Brivity",
             [
-                ["CRM", "https://www.brivity.com/super"],
+                ["CRM", "https://brivity.com/super"],
                 ["CMA", "https://www.example.com"],
                 ["KWKLY", "https://www.example.com"],
                 ["Marketer", "https://www.example.com"],

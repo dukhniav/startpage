@@ -1,5 +1,5 @@
 const Config = {
-    name: "user",
+    name: "Artem",
     scale: 1,
     Links: [
         [

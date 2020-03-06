@@ -7,27 +7,28 @@ const Config = {
             [
                 ["CRM", "https://brivity.com/super"],
                 ["CMA", "https://brivitycma.com/super"],
-                ["KWKLY", "https://www.example.com"],
-                ["Marketer", "https://www.example.com"],
-                ["IDX", "https://www.example.com"],
-                ["BlueRoof", "https://www.example.com"]
+                ["KWKLY", "https://app.kwkly.com/Login.aspx"],
+                ["Marketer", "https://www.brivitymarketer.com/"],
+                ["IDX", "https://login.realvolution.com/"],
+                ["BlueRoof", "http://blueroof360.com/"]
             ]
         ],
         [
             "Support",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["CMA", "https://www.example.com"],
-                ["CMA", "https://www.example.com"]
+                ["Tickets", "https://app.hubspot.com/contacts/6041126/tickets/list/view/2780026/?"],
+                ["Chats", "https://app.hubspot.com/live-messages/6041126/inbox/239016896#reply-editor"],
+                ["Chargify", "https://app.chargify.com/sellers/15612-brivity"],
+                ["Mandrill", "https://mandrillapp.com/login/?referrer=%2F"],
+                ["HelpCenter", "https://info.brivity.com/knowledge/"]
             ]
         ],
         [
             "Other",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["TimeClock", "https://www.payrollservers.us/pg/Ess/Home.aspx"],
+                ["Mail", "https://mail.google.com"],
+                ["Drive", "https://drive.google.com"]
             ]
         ]
     ]

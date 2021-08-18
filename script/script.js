@@ -3,31 +3,26 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "Brivity",
+            "FAST",
             [
-                ["CRM", "https://brivity.com/super"],
-                ["CMA", "https://brivitycma.com/super"],
-                ["KWKLY", "https://app.kwkly.com/Login.aspx"],
-                ["Marketer", "https://www.brivitymarketer.com/"],
-                ["IDX", "https://login.realvolution.com/"],
-                ["BlueRoof", "http://blueroof360.com/"]
+                ["Environments", "https://environments.gentax.com/links/"],
+                ["FAST Teams", "https://teams.microsoft.com/_#/conversations/19:7bf54742-dcb0-4e0d-9561-f5255d574a84_7ff98e9e-86f0-4dad-96c8-1e9b22ac6f92@unq.gbl.spaces?ctx=chat"],
+                ["ADP", "https://workforcenow.adp.com/workforcenow/login.html?TYPE=33554433&REALMOID=06-000dc772-cdfd-1f1b-aeeb-b0290b010092&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-NP5j2WG6IhC9aG03BI8gDbA%2bRe6Q5fJaTcb%2fl%2fYG%2fIhi%2bYBqEbG2jjyYyPKS4Sna&TARGET=-SM-https%3a%2f%2fworkforcenow%2eadp%2ecom%2ftheme%2findex%2ehtml#/Myself_ttd_MyselfTabXBPayCategoryPayStatements/MyselfTabXBPayCategoryPayStatements"],
+                ["Marketer", "https://www.brivitymarketer.com/"]
             ]
         ],
         [
-            "Support",
+            "New Mexico",
             [
-                ["Tickets", "https://app.hubspot.com/contacts/6041126/tickets/list/view/2780026/?"],
-                ["Chats", "https://app.hubspot.com/live-messages/6041126/inbox/239016896#reply-editor"],
-                ["Chargify", "https://app.chargify.com/sellers/15612-brivity"],
-                ["Mandrill", "https://mandrillapp.com/login/?referrer=%2F"],
-                ["HelpCenter", "https://info.brivity.com/knowledge/"]
+                ["Guacamole", "https://cra.trd.state.nm.us/#/"]
+               
             ]
         ],
         [
-            "Other",
+            "Electro Stonks",
             [
-                ["TimeClock", "https://www.payrollservers.us/pg/Ess/Home.aspx"],
-                ["Mail", "https://mail.google.com"],
+                ["CMC", "https://coinmarketcap.com/"],
+                ["GMail", "https://mail.google.com"],
                 ["Drive", "https://drive.google.com"]
             ]
         ]
